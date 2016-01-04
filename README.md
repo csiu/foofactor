@@ -92,4 +92,3 @@ Acknowledgements
 ----------------
 
 -   [Jenny Bryan](http://github.com/jennybc) and [STAT 545/547M](http://stat545-ubc.github.io/packages00_index.html) for teaching and providing resources to simplify writing an R package
--   [parent `foofactors` repo](https://github.com/STAT545-UBC/foofactors)
